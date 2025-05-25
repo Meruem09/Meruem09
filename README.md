@@ -21,9 +21,9 @@ JavaScript   2 mins          ░░░░░░░░░░░░░░░░░
 [![](https://komarev.com/ghpvc/?username=Deeppanchal2108&base=1000&color=ADD8E8)](https://github.com/Deeppanchal2108)
 
 > [!NOTE]
-><code>➜ primary email: [rahulvarma1797@gmail.com](mailto:deepanchal2290@gmail.com)</code><br>
+><code>➜ primary email: [Rahul Varma](mailto:rahulvarma1797@gmail.com)</code><br>
 > <code>➜ linkedin: [Rahul Varma](https://www.linkedin.com/in/rahul-varma-1129a9328)</code><br>
-> <code>➜ twitter: [Rahul]([https://x.com/Shiva_saiiii])</code><br>
+> <code>➜ twitter: [Rahul](https://x.com/Shiva_saiiii)</code><br>
 > <code>➜ spotify: [Shivaaa](https://open.spotify.com/user/31gyi7zknj4dwxc45yrs77nmwoxy)</code><br>
 
 <picture>
