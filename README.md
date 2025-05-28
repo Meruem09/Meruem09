@@ -11,7 +11,6 @@
 > [!NOTE]
 ><code>➜ primary email: [Rahul Varma](mailto:rahulvarma1797@gmail.com)</code><br>
 > <code>➜ linkedin: [Rahul Varma](https://www.linkedin.com/in/rahul-varma-1129a9328)</code><br>
-> <code>➜ twitter: [Rahul](https://x.com/Shiva_saiiii)</code><br>
 > <code>➜ spotify: [Shivaaa](https://open.spotify.com/user/31gyi7zknj4dwxc45yrs77nmwoxy)</code><br>
 
 
