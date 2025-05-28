@@ -3,8 +3,7 @@
 👋 Hi, I’m @Meruem09
 - 👀 I’m interested in Web development and GameDev
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner-friendly projects
-- 📫 How to reach me on Twitter @Shiva_saiiii 
+- 💞️ I’m looking to collaborate on beginner-friendly projects 
 - 😄 Pronouns: Shivaa
 
 
