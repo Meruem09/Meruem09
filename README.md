@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web development and GameDev
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner-friendly projects 
-- 😄 Pronouns: Shivaa
+- 😄 Pronouns: Shiva
 
 
 > [!NOTE]
