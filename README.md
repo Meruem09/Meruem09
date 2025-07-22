@@ -13,7 +13,7 @@
 > <code>➜ spotify: [Shivaaa](https://open.spotify.com/user/31gyi7zknj4dwxc45yrs77nmwoxy)</code><br>
 
 ## Visitor count
-![Visitor Count](https://count.getloli.com/get/@Meruem09?theme=booru-r6gdrawfriends)
+![Visitor Count](https://count.getloli.com/get/@Meruem09?theme=booru-lewd)
 
 
 
