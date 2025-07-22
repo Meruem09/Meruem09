@@ -1,6 +1,6 @@
 <code>for freelance work? do reach, [email](mailto:rv579787@gmail.com) :)</code><br>
 
-👋 Hi, I’m @Meruem09
+👋 Hi, I’m Rahul Varma
 - 👀 I’m interested in Web development and GameDev
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner-friendly projects 
