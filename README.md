@@ -1,10 +1,9 @@
-<code>for freelance work? do reach, [email](mailto:rv579787@gmail.com) :)</code><br>
+<code>for freelance work? do reach, [email](mailto:vrahul.engineer@gmail.com) :)</code><br>
 
-👋 Hi, I’m Rahul Varma
-- 👀 I’m interested in Web development and GameDev
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner-friendly projects 
-- 😄 Pronouns: Shiva
+Hi, I’m Rahul Varma
+- I'm a Computer Science student and full stack developer who loves building real stuff that works.
+- I focus on clean UI, solid backend logic, and shipping useful products.
+- Currently exploring system design and contributing to open source when I can.
 
 
 > [!NOTE]
