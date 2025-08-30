@@ -6,7 +6,7 @@ Hi, I’m Rahul Varma
 - Currently exploring system design and contributing to open source when I can.
 
 <p align="center">
-  <img src="typing.gif" alt="A GIF showing my work">
+  <img src="typing___.gif" alt="A GIF showing my work">
 </p>
 > [!NOTE]
 ><code>➜ primary email: [Rahul Varma](mailto:rv579787@gmail.com)</code><br>
