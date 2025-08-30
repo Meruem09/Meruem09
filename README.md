@@ -5,7 +5,9 @@ Hi, I’m Rahul Varma
 - I focus on clean UI, solid backend logic, and shipping useful products.
 - Currently exploring system design and contributing to open source when I can.
 
-
+<P align="center">
+  <img src="typing___" alt="cat typing gif">
+</P>
 > [!NOTE]
 ><code>➜ primary email: [Rahul Varma](mailto:rv579787@gmail.com)</code><br>
 > <code>➜ linkedin: [Rahul Varma](https://www.linkedin.com/in/rahul-varma-1129a9328)</code><br>
